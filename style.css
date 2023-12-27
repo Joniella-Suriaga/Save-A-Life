@@ -185,6 +185,11 @@ section.issues article {
     padding: 15px 15px;
 }
 
+section.issues article p {
+   text-align: justify;
+   text-justify: inter-word;
+}
+
 .left {
     float: left;
     width: 400px;
